@@ -1,0 +1,108 @@
+.sec1{
+    padding-top: 10px;
+}
+
+.element{
+    font-weight: 700;
+    color: black;
+}
+
+.kalar{
+    background-color: #F0FFF0;
+}
+
+.sec2{
+    margin-top: 60px;
+    padding-bottom: 100px;
+}
+
+.sec2 h6{
+    margin-top: 50px;
+    color:  #FD511A;
+}
+
+.sec2 h1{
+    font-weight: 700;
+    font-size: 60px;
+}
+
+.p1{
+
+    margin-top: 30px;
+    font-size: 10px;
+}
+
+.sec2 p{
+    font-size: 18px;
+    line-height: 20px;
+}
+
+#sobuj{
+    color: #21B573;
+}
+
+#gs{
+    text-decoration: none;
+    color: white;
+    font-size: medium;
+    font-weight: 400;
+}
+
+.sec2 button{
+    margin-top: 30px;
+
+}
+
+.get-started-button{
+    background-color: #21B573;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-bottom: 12px;
+    padding-top: 12px;
+    border-width: 0;
+}
+
+.sec3{
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
+
+
+
+.card{
+    background-color: #F8FFFB;
+    justify-content: center;
+    align-items: center;
+    width: 270px;
+    border: none;
+    height: 270px;
+}
+
+.cardimg{
+    margin-bottom: 20px;
+    margin-left: 25px;
+}
+
+.card h5{
+    font-size: 25px;
+}
+
+.card p{
+    text-align: center;
+}
+
+.cardimg1{
+    margin-bottom: 20px;
+    margin-left: 50px;
+}
+
+.cardimg3{
+    margin-bottom: 20px;
+    margin-left: 45px;
+}
+
+
+.card:hover{
+    background-color: white;
+    box-shadow: 2px 9px 20px lightgrey;
+}
